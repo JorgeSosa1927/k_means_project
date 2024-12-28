@@ -1,0 +1,18 @@
+# Virtual environment
+k_means_env/
+*.pyc
+__pycache__/
+
+# Dataset and generated files
+benchmarks/dataset.csv
+
+# OS-specific files
+.DS_Store
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
